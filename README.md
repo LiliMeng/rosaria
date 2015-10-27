@@ -2,7 +2,8 @@
 For information on how to use RosAria, see <http://wiki.ros.org/ROSARIA>,
 especially <http://wiki.ros.org/ROSARIA/Tutorials/How to use ROSARIA>.
 
-PowerBot and RosAria Connection
+Documentation on PowerBot and RosAria Connection: https://docs.google.com/document/d/1v6PMLPHarDuJ0K1XRWxKLU_ukU1tzfbbpdLlDDvNq08/edit?usp=sharing
+
 
 1.Turn on the power and plug in the USB
 2. check out which USB port we are using right now
